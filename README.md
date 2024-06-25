@@ -15,8 +15,8 @@ URL : https://sonarcloud.io/login
 
 ## Configuring Sonar in the Jenkins
 
-- Add Sonar scanner, Jacoco plugin in Jenkins
-- Setup SonarServer in the Systems in Jenkins
+- Add Sonar scanner, Jacoco plugin in Jenkins.
+- Setup SonarServer in the Systems in Jenkins.
 -  -  Check Environment Variable
    -  Give your preferred name of SonarServer, in Jenkinsfile we will referring it. (sonarcloud)
    -  Give server url as  - https://sonarcloud.io
